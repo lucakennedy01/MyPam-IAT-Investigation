@@ -12,7 +12,7 @@ menu_options = {
 }
 
 def print_menu():
-    print("\n[************ HCAAR Data Investigation - Main Menu ************]\n")
+    print("\n[************ MyPam IAT Data Investigation - Main Menu ************]\n")
     for key in menu_options.keys():
         print(key, '--', menu_options[key])
 
